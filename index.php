@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
     <title>Inventory Management System</title>
 
 </head>
